@@ -1,0 +1,15 @@
+# Simple Calculator in Python
+
+A basic Python program that performs simple arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+
+## How to Use
+1. Clone or download this repository to your local machine.
+2. Run the script using Python:
+   ```bash
+   python calculator.py
